@@ -2,11 +2,13 @@
 
 MS-Access based relational database to manage COVID vaccine appointments and inventory levels across NYC. MS-Project and Visio project management tools to design, track and deploy the system within fixed timeline.
 
-# Project Background
+## Project Background
 
-In this project, an MS-Access based relational database is created to solve the logistical issues surrounding COVID-19 vaccine demand and supply by creating an all-inclusive platform that allows scheduling vaccine appointments, storingresident information, and managing vaccine inventory.
+In this project, an MS-Access based relational database is created to solve the logistical issues surrounding COVID-19 vaccine demand and supply by creating an all-inclusive platform that allows scheduling vaccine appointments, storing resident information, and managing vaccine inventory.
 
 In addition to the database, the project went through full system analysis, design and deployment through a three phase approach. 
+
+## Project Files
 
 The deliverables for each phase are reported on the individual phase directories.
 
